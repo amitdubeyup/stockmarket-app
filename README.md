@@ -1,4 +1,4 @@
-# stock-market-tracker
+# Stock Tracker Webapp
 
 A stockmarket-app project
 
