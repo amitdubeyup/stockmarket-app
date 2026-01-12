@@ -1,25 +1,55 @@
-# Stock Tracker Webapp
+# Stock Market Dashboard
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-## 📝 Description
-A stockmarket-app project
+## 👤 Author
+**Amit Dubey**  
+*Full-Stack Architect & Fintech Specialist*  
+[Portfolio](https://amitdubey.me) | [GitHub](https://github.com/amitdubeyup) | [Email](mailto:amitdubeycs88@gmail.com)
 
-## 🚀 Technology Stack
-- **Primary**: Web/HTML
+---
 
-## 🛠️ Installation & Setup
-1. Clone the repository:
+## 📝 About The Project
+Interactive dashboard for tracking stock portfolios. Features real-time price updates, gain/loss visualization, and market news integration.
+
+This project is maintained by **Amit Dubey** and reflects modern engineering practices, focusing on scalability, code readability, and performance.
+
+## 🚀 Key Features
+- **Live Ticker**
+- **Portfolio Management**
+- **Interactive Charts**
+- **News Aggregation**
+
+## 🛠️ Technology Stack
+- **Core**: React, D3.js, Financial APIs
+- **Infrastructure**: Git, GitHub Actions (CI/CD)
+
+## 📦 Installation & Usage
+
+1. **Clone the repository**
    ```bash
    git clone git@github.com:amitdubeyup/stock-tracker-webapp.git
    ```
-2. Navigate to the directory:
+
+2. **Navigate to directory**
    ```bash
    cd stock-tracker-webapp
    ```
 
-## 📄 License
-This project is licensed under the MIT License.
+3. **Install Dependencies (if applicable)**
+   ```bash
+   # For Node.js
+   npm install
+   
+   # For Python
+   # pip install -r requirements.txt
+   ```
 
---- 
-*Generated and maintained as part of the digital portfolio synchronization.*
+4. **Run the Application**
+   ```bash
+   # Check package.json scripts or run directly
+   npm start
+   ```
+
+## 📄 License
+This project is licensed under the **MIT License**.
